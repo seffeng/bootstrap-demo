@@ -1,0 +1,115 @@
+
+
+.m-1 {
+  margin: 1px 0;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-60 {
+  margin-top: 60px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.mb-0 {
+  margin-bottom: 0;
+}
+.mb-60 {
+  margin-bottom: 60px;
+}
+.mb-120 {
+  margin-bottom: 120px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.boder-1 {
+  border: 1px solid #ddd;
+}
+
+.bg-none {
+  background-color: none!important;
+}
+.pd-15 {
+  padding: 15px;
+}
+.pd-0 {
+  padding: 0;
+}
+.pl-10 {
+  padding-left: 10px;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+
+.pl-15 {
+  padding-left: 15px;
+}
+.pr-15 {
+  padding-right: 15px;
+}
+
+.bg-blue {
+    background-color: #1b6ec1!important;
+}
+
+.content {
+
+}
+
+.overflow-x {
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.overflow-x > nav {
+  display: inline-block;
+}
+
+.card-content {
+  height: 300px;
+  overflow: auto;
+}
+
+.card-width {
+  min-width: 20rem;
+  max-width:25rem;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+/*
+ * Footer
+ */
+.footer {
+  position: static;
+  bottom: 0;
+  width: 100%;
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.footer p:last-child {
+  margin-bottom: 0;
+}
+
+#totop {
+  position: fixed;
+  bottom: 3em;
+  right: 1em;
+  cursor: pointer;
+}
