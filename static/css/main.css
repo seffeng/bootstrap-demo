@@ -1,0 +1,85 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.m-1 {
+  margin: 1px 0;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-60 {
+  margin-top: 60px;
+}
+.mb-20 {
+  margin-top: 20px;
+}
+.mb-0 {
+  margin-bottom: 0;
+}
+.mb-60 {
+  margin-top: 60px;
+}
+.mb-120 {
+  margin-bottom: 120px;
+}
+
+.ml-10 {
+  margin-left: 10px;
+}
+
+.min-hp818 {
+  min-height: 818px;
+}
+
+.boder-1 {
+  border: 1px solid #ddd;
+}
+
+.bg-none {
+  background-color: none;
+}
+.pd-15 {
+  padding: 15px;
+}
+.pd-0 {
+  padding: 0;
+}
+.pl-10 {
+  padding-left: 10px;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+
+.pl-15 {
+  padding-left: 15px;
+}
+.pr-15 {
+  padding-right: 15px;
+}
+
+.content {
+
+}
+
+/*
+ * Footer
+ */
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.footer p:last-child {
+  margin-bottom: 0;
+}
